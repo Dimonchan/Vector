@@ -1,0 +1,9 @@
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\bin\Debug\Vector.exe.config
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\bin\Debug\Vector.exe
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\bin\Debug\Vector.pdb
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\obj\Debug\Vector.csprojAssemblyReference.cache
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\obj\Debug\Vector.Form1.resources
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\obj\Debug\Vector.Properties.Resources.resources
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\obj\Debug\Vector.csproj.GenerateResource.cache
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\obj\Debug\Vector.exe
+C:\Users\Dev_Teacher\source\repos\Vector\Vector\obj\Debug\Vector.pdb
